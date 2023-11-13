@@ -1,7 +1,7 @@
 # CodeCasa
 
-PROGRAM 1:-Hotel Management System in C++
-A Hotel Management System in C++ is a program designed to facilitate the efficient management of various hotel operations. It typically includes features such as reservation handling, room assignment, billing, and reporting. The key components and functionalities:
+PROGRAM 1:-
+Hotel Management System in C++ is a program designed to facilitate the efficient management of various hotel operations. It typically includes features such as reservation handling, room assignment, billing, and reporting. The key components and functionalities:
 
 1)Class Design:
 Create classes to represent entities like Hotel, Room, Guest, and Reservation.
@@ -41,8 +41,8 @@ Use file handling mechanisms to store and retrieve data persistently. This can i
 Implement authentication and authorization mechanisms to ensure that only authorized staff can access and modify sensitive information.
 
 
-PROGRAM 2:-Student Management System in C++
-A Student Management System in C++ implements a basic student management system with two classes: Student and Teacher. The program allows interaction from both students and teachers. a brief description of the main components and functionalities:
+PROGRAM 2:-
+Student Management System in C++ implements a basic student management system with two classes: Student and Teacher. The program allows interaction from both students and teachers. a brief description of the main components and functionalities:
 
 1)Student Class:
 The Student class represents an individual student and includes attributes such as name, roll number, total score, and arrays to store pending assignment names and scores.
@@ -63,7 +63,7 @@ Input is taken from the user to perform various actions, and the program respond
 The program includes error handling for invalid inputs.
 
 
-PROGRAM 3:-Login and registration system in C++
+PROGRAM 3:-
 Login and registartion C++ code implements a simple login and registration system. a brief description of its main components and functionalities:
 
 1)Main Function:
