@@ -17,6 +17,7 @@ class Student
         double pendingAssignmentScores[10];
         string pendingAssignmentNames[10];
         int pendingAssignmentCount = 0;
+        
     public:
         Student(const string& n, const string& r) : name(n), rollNumber(r), totalScore(0.0) {}
         Student() : name(""), rollNumber(""), totalScore(0.0) {}
