@@ -1,6 +1,6 @@
 # CodeCasa
 
-A Hotel Management System in C++ is a program designed to facilitate the efficient management of various hotel operations. It typically includes features such as reservation handling, room assignment, billing, and reporting. The key components and functionalities:
+1)A Hotel Management System in C++ is a program designed to facilitate the efficient management of various hotel operations. It typically includes features such as reservation handling, room assignment, billing, and reporting. The key components and functionalities:
 
 1)Class Design:
 Create classes to represent entities like Hotel, Room, Guest, and Reservation.
@@ -38,3 +38,5 @@ Use file handling mechanisms to store and retrieve data persistently. This can i
 
 10)Security:
 Implement authentication and authorization mechanisms to ensure that only authorized staff can access and modify sensitive information.
+
+2)
